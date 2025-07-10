@@ -1,0 +1,20 @@
+img {
+    width: 100px;
+    height: 100px;
+    
+    
+}
+h1{
+color: black;
+font-family: 'Times New Roman', Times, serif;
+font-size: large;
+}
+
+li{
+    list-style-type: disc;
+}
+footer{
+    text-align: center;
+    padding: 5px;
+    
+}
